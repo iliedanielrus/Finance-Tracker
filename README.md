@@ -1,7 +1,9 @@
 "FinanCrafter" - Mobile Application(Kotlin, Spring Boot): Your Personal Finance Wizard - a Mobile application for Managing your Personal Finances
 
 -Uses Jetpack Compose for the mobile UI
+
 -Java Spring Boot for the server part
+
 -Also uses a local database for when the application is not connected to the server
 
 1. Short description
